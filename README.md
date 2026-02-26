@@ -4,7 +4,7 @@
 <img width="2194" height="1610" alt="casos-de-uso" src="https://github.com/user-attachments/assets/de22b84e-28a9-43c9-94de-3dce7b4bc311" />
 
 
-| Identificação | Descrição breve | Ator | Fluxo principal (resumo) |
+| Identificação | Descrição breve | Ator | Fluxo (resumo) |
 |---|---|---|---|
 | UC001 — Manter Sessões e Salas | Cadastra e atualiza salas e sessões do cinema. | Administrador | Acessa admin → cria/edita sala/sessão → valida conflitos → salva/publica. |
 | UC002 — Manter Filmes | Cadastra, edita ou inativa filmes do catálogo. | Administrador | Abre catálogo → cria/edita filme → valida campos → salva/disponibiliza. |
