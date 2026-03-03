@@ -25,8 +25,5 @@
 
 ## Projeto 1 - Diagrama de Classes ##
 
-<img width="1271" height="1028" alt="image" src="https://github.com/user-attachments/assets/de9800a1-93eb-4213-adac-3c8cc3044813" />
-
-
-
+<img width="3612" height="2803" alt="mermaid-diagram-2026-03-02-221549" src="https://github.com/user-attachments/assets/5e1e33d2-cd26-4284-b40b-8093033a8516" />
 
